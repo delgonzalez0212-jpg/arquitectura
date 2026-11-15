@@ -1,7 +1,7 @@
 // ===== Carga dinámica de las obras desde el archivo JSON =====
 const contenedorObras = document.querySelector("#contenedor-obras");
 
-fetch("data/obras.json")
+fetch("obras.json")
   .then((respuesta) => respuesta.json())
   .then((obras) => {
     obras.forEach((obra) => {

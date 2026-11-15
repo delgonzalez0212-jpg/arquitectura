@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Edificio Kavanagh",
+    "arquitecto": "Sánchez, Lagos y de la Torre",
+    "anio": 1936,
+    "estilo": "Racionalismo / Art Déco",
+    "descripcion": "Fue el rascacielos de hormigón armado más alto de Sudamérica. Su silueta escalonada domina la Plaza San Martín."
+  },
+  {
+    "nombre": "Palacio Barolo",
+    "arquitecto": "Mario Palanti",
+    "anio": 1923,
+    "estilo": "Ecléctico",
+    "descripcion": "Inspirado en la Divina Comedia de Dante: su recorrido va del infierno (planta baja) al paraíso (el faro de la cúpula)."
+  },
+  {
+    "nombre": "Biblioteca Nacional",
+    "arquitecto": "Clorindo Testa",
+    "anio": 1992,
+    "estilo": "Brutalismo",
+    "descripcion": "Un enorme volumen de hormigón suspendido sobre cuatro pilares que libera el suelo para el parque."
+  },
+  {
+    "nombre": "Banco de Londres",
+    "arquitecto": "Clorindo Testa y SEPRA",
+    "anio": 1966,
+    "estilo": "Brutalismo",
+    "descripcion": "Una fachada de hormigón perforada que dialoga con la esquina y un interior abierto de gran altura."
+  },
+  {
+    "nombre": "Casa Curutchet",
+    "arquitecto": "Le Corbusier",
+    "anio": 1953,
+    "estilo": "Movimiento Moderno",
+    "descripcion": "La única obra de Le Corbusier en América Latina, en La Plata. Hoy es Patrimonio Mundial de la UNESCO."
+  },
+  {
+    "nombre": "Usina del Arte",
+    "arquitecto": "Juan Chiogna (original)",
+    "anio": 1916,
+    "estilo": "Neorrenacimiento florentino",
+    "descripcion": "Una antigua usina eléctrica de La Boca reconvertida en centro cultural, con una sala de conciertos de excelente acústica."
+  }
+]
